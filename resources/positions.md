@@ -2,9 +2,7 @@
 
 ## Interested
 
-### 字节 AML 机器学习系统调度编排
-
-[【投递】](https://jobs.bytedance.com/campus/position/7529810995080202514/detail)
+### 字节 AML 机器学习系统调度编排 [【投递】](https://jobs.bytedance.com/campus/position/7529810995080202514/detail)
 
 【描述】（PS： 岗位描述较详细）
 
@@ -16,9 +14,7 @@
 
 【要求】熟悉分布式系统原理
 
-### 字节 AML 大模型推理系统研发
-
-[【投递】](https://jobs.bytedance.com/campus/position/7532039453444835602/detail)
+### 字节 AML 大模型推理系统研发 [【投递】](https://jobs.bytedance.com/campus/position/7532039453444835602/detail)
 
 【描述】火山方舟MaaS推理系统工程研发：多角色分离式推理、分布式KV Cache系统、异构推理、弹性计算、多租户混布推理
 
@@ -31,9 +27,7 @@
 - 分布式网络通信优化经验：分布式通信算子实现原理、RDMA原理
 - k8s, ray
 
-### 百度 大模型智算
-
-[【投递】](https://talent.baidu.com/jobs/detail/GRADUATE/43e99910-e7d7-472b-8adf-149821b8fb2a)
+### 百度 大模型智算 [【投递】](https://talent.baidu.com/jobs/detail/GRADUATE/43e99910-e7d7-472b-8adf-149821b8fb2a)
 
 【描述】
 - 异构计算集群
@@ -47,16 +41,13 @@
 - 大模型训练调优：GPU和底层CUDA原理
 - Kubeflow、Volcano、Pytorch、GPU芯片架构
 
-### 腾讯 基础架构
-
-[【投递】](https://join.qq.com/post_detail.html?postid=1150161895786041347)
+### 腾讯 基础架构 [【投递】](https://join.qq.com/post_detail.html?postid=1150161895786041347)
 
 【描述】
 - 基础设施（网络、存储、数据库）
 - 运用技术：虚拟化、容器、分布式系统、微服务架构
 
-### 腾讯 高性能计算
-[【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752)
+### 腾讯 高性能计算 [【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752)
 
 【描述】
 - GPU方向：调度；混合精度计算；模型量化
@@ -70,9 +61,8 @@
 - DPDK/SPDK
 - Transformer 架构
 
-### 快手 AI-Infra研发
+### 快手 AI-Infra研发 [【投递】](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/9915)
 
-[【投递】](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/9915)
 
 【描述】
 - LLM推理系统、GPU、RDMA
@@ -84,9 +74,7 @@
 - SGLang
 - RouteLLM
 
-### 字节 字节云 算力与AI基础设施
-
-[【投递】](https://jobs.bytedance.com/campus/position/7532390972501772562/detail)
+### 字节 字节云 算力与AI基础设施 [【投递】](https://jobs.bytedance.com/campus/position/7532390972501772562/detail)
 
 【描述】
 - 参与HTAP、HSAP、Ray等分布式计算引擎功能研发
@@ -97,8 +85,7 @@
 - Linux Kernel
 - Kafka
 
-### 滴滴 弹性计算 k8s开发
-[【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
+### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
 
 【描述】k8s：调度、GPU集群、master
 
@@ -106,8 +93,7 @@
 - 开源分布式系统
 - 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
 
-### 米哈游 大模型训练推理平台研发
-[【投递】](https://jobs.mihoyo.com/#/campus/position/6686)
+### 米哈游 大模型训练推理平台研发 [【投递】](https://jobs.mihoyo.com/#/campus/position/6686)
 
 【描述】大模型训练推理平台后台模块的开发、优化及运维
 
@@ -116,8 +102,7 @@
 - PyTorch，vllm/sglang
 - 分布式系统
 
-### 蚂蚁 基础平台研发
-[【投递】](https://talent.antgroup.com/campus-position?positionId=25081106194767&tid=219fddf317554951769451887eae31)
+### 蚂蚁 基础平台研发 [【投递】](https://talent.antgroup.com/campus-position?positionId=25081106194767&tid=219fddf317554951769451887eae31)
 
 【描述】负责云计算和大数据基础技术研发。更偏向于开发
 
