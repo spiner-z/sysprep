@@ -97,6 +97,32 @@
 - Linux Kernel
 - Kafka
 
+### 滴滴 弹性计算 k8s开发
+[【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
+
+【描述】k8s：调度、GPU集群、master
+
+【要求】
+- 开源分布式系统
+- 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
+
+### 米哈游 大模型训练推理平台研发
+[【投递】](https://jobs.mihoyo.com/#/campus/position/6686)
+
+【描述】大模型训练推理平台后台模块的开发、优化及运维
+
+【要求】
+- k8s
+- PyTorch，vllm/sglang
+- 分布式系统
+
+### 蚂蚁 基础平台研发
+[【投递】](https://talent.antgroup.com/campus-position?positionId=25081106194767&tid=219fddf317554951769451887eae31)
+
+【描述】负责云计算和大数据基础技术研发。更偏向于开发
+
+【要求】golang 开发
+
 ## Interviewing
 
 ## Interviewed
