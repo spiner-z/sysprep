@@ -27,20 +27,6 @@
 - 分布式网络通信优化经验：分布式通信算子实现原理、RDMA原理
 - k8s, ray
 
-### 百度 大模型智算 [【投递】](https://talent.baidu.com/jobs/detail/GRADUATE/43e99910-e7d7-472b-8adf-149821b8fb2a)
-
-【描述】
-- 异构计算集群
-- Kubernetes GPU 调度
-- 虚拟化混部
-- 训练推理服务编排
-- 高性能网络
-
-【要求】
-- Kubernetes：调度器、资源扩展机制、容器运行时、容器网络
-- 大模型训练调优：GPU和底层CUDA原理
-- Kubeflow、Volcano、Pytorch、GPU芯片架构
-
 ### 腾讯 基础架构 [【投递】](https://join.qq.com/post_detail.html?postid=1150161895786041347)
 
 【描述】
@@ -85,14 +71,6 @@
 - Linux Kernel
 - Kafka
 
-### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
-
-【描述】k8s：调度、GPU集群、master
-
-【要求】
-- 开源分布式系统
-- 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
-
 ### 米哈游 大模型训练推理平台研发 [【投递】](https://jobs.mihoyo.com/#/campus/position/6686)
 
 【描述】大模型训练推理平台后台模块的开发、优化及运维
@@ -109,5 +87,27 @@
 【要求】golang 开发
 
 ## Interviewing
+
+### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
+
+【描述】k8s：调度、GPU集群、master
+
+【要求】
+- 开源分布式系统
+- 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
+
+### 百度 大模型智算 [【投递】](https://talent.baidu.com/jobs/detail/GRADUATE/43e99910-e7d7-472b-8adf-149821b8fb2a)
+
+【描述】
+- 异构计算集群
+- Kubernetes GPU 调度
+- 虚拟化混部
+- 训练推理服务编排
+- 高性能网络
+
+【要求】
+- Kubernetes：调度器、资源扩展机制、容器运行时、容器网络
+- 大模型训练调优：GPU和底层CUDA原理
+- Kubeflow、Volcano、Pytorch、GPU芯片架构
 
 ## Interviewed
