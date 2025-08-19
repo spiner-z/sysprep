@@ -88,6 +88,16 @@
 
 ## Interviewing
 
+### 字节 混合云 云原生AI研发（社招） [【投递】](https://jobs.bytedance.com/experienced/position/7475683054569441554/detail)
+
+【描述】混合云云原生AI Infra架构
+
+【要求】
+- 大模型推理
+- 分布式系统
+- k8s: 调度器、资源扩展机制、容器网络
+- 熟悉并了解底层实现：PyTorch、vllm、sglang
+
 ### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
 
 【描述】k8s：调度、GPU集群、master
