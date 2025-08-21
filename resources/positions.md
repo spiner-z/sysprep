@@ -100,6 +100,15 @@
 
 ## Interviewing
 
+### 虾皮 AI基础架构师
+
+【描述】GPU 集群的编排调度
+
+【要求】
+- kubernetes、kubeflow、volcano
+- ray
+- GPU、RDMA、NCCL
+
 ### 字节 混合云 云原生AI研发（社招） [【投递】](https://jobs.bytedance.com/experienced/position/7475683054569441554/detail)
 
 【描述】混合云云原生AI Infra架构
