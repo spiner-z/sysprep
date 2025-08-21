@@ -2,6 +2,18 @@
 
 ## Interested
 
+### 商汤 大装置 AI云计算开发 [【投敌】](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/posDetail.html?postId=6887184e43ff2844337f9be3&postType=campus)
+
+【描述】AI基础设施；训练、推理
+
+【要求】
+- Kubernetes
+- pytorch、tensorflow
+- GPU 虚拟化
+- MPI Allreduce、Parameter Server
+-  Open MPI、NCCL
+-  国产 GPU
+
 ### 字节 AML 机器学习系统调度编排 [【投递】](https://jobs.bytedance.com/campus/position/7529810995080202514/detail)
 
 【描述】（PS： 岗位描述较详细）
