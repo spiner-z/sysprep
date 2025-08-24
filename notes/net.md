@@ -205,3 +205,32 @@ HTTP 主要用于 B/S Browser/Server 架构，而 RPC 更多用于 C/S Client/Se
 
 #### 四次挥手
 
+名词
+
+- **FIN**：Finish Flag，结束标志位
+
+整个过程：
+
+![客户端主动关闭连接 —— TCP 四次挥手](https://cdn.xiaolincoding.com//mysql/other/format,png-20230309230614791.png)
+
+- Client 和 Server 都处于 `ESTABLISHED` 状态
+- Client 主动关闭连接
+- 【第一次挥手】FIN（Client → Server）
+  - Client 发送 FYN=1，seq=u
+  - Client 状态变为 FIN_WAIT_1
+- 【第二次挥手】ACK（Server → Client）
+  - Client 发送 ACK=1，seq=v，ack=u+1
+    - 含义：“收到关闭请求，但还有一些数据没发，稍等”
+  - Server 状态变为 CLOSE_WAIT
+  - Client 收到后状态变为 FIN_WAIT_2
+- 【第三次挥手】FIN（Server → Client）
+  - Server 发送 FIN=1，seq=w，ack=u+1
+  - Server 状态变为 LAST_ACK
+  - Client 收到后状态变为 TIME_WAIT
+- 【第四次挥手】ACK（Client → Server）
+  - Client 发送ACK=1，seq=u+1，ack=w+1
+  - Client 状态变为 TTIME_WAIT，等待 2MSL 时间后关闭
+    - MSL：Maximum Segment Lifetime 报文最大生存时间
+  - Server 收到后状态变为 CLOSED
+
+
