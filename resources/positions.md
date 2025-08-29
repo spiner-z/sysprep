@@ -100,15 +100,6 @@
 
 ## Interviewing
 
-### 虾皮 AI基础架构师
-
-【描述】GPU 集群的编排调度
-
-【要求】
-- kubernetes、kubeflow、volcano
-- ray
-- GPU、RDMA、NCCL
-
 ### 字节 混合云 云原生AI研发（社招） [【投递】](https://jobs.bytedance.com/experienced/position/7475683054569441554/detail)
 
 【描述】混合云云原生AI Infra架构
@@ -118,14 +109,6 @@
 - 分布式系统
 - k8s: 调度器、资源扩展机制、容器网络
 - 熟悉并了解底层实现：PyTorch、vllm、sglang
-
-### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
-
-【描述】k8s：调度、GPU集群、master
-
-【要求】
-- 开源分布式系统
-- 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
 
 ### 百度 大模型智算 [【投递】](https://talent.baidu.com/jobs/detail/GRADUATE/43e99910-e7d7-472b-8adf-149821b8fb2a)
 
@@ -156,4 +139,27 @@
 - 网络协议栈：RoCEv2、GPUDirectRDMA性能调优
 - 调度算法：GangScheduling、BinPacking
 
-## Interviewed
+## ❌ Rejected
+
+### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
+
+【描述】k8s：调度、GPU集群、master
+
+【要求】
+- 开源分布式系统
+- 源码阅读，包括但不限于：k8s/Kubelet/Docker/Kafka/Rocketmq/Zookeeper/Codis/Redis
+
+### 虾皮 AI基础架构师
+
+【描述】GPU 集群的编排调度
+
+【要求】
+- kubernetes、kubeflow、volcano
+- ray
+- GPU、RDMA、NCCL
+
+## ✅ Accepted
+
+
+
+
