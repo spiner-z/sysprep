@@ -124,21 +124,6 @@
 - 大模型训练调优：GPU和底层CUDA原理
 - Kubeflow、Volcano、Pytorch、GPU芯片架构
 
-### 京东 超大规模异构算力智能调度 [【投递】](https://campus.jd.com/#/details?id=5993)
-
-【描述】
-- 算力集群：异构计算架构，探索高性能计算存储、高性能网络等前沿技术落地
-- RL for scheduling
-- LLM 训推场景
-- 故障预测、自愈
-- Kubernetes、Ray
-
-【要求】
-- 分布式系统架构：K8s、Ray、Horovod
-- HPC：CUDA/Triton/OpenCL底层优化
-- 网络协议栈：RoCEv2、GPUDirectRDMA性能调优
-- 调度算法：GangScheduling、BinPacking
-
 ## ❌ Rejected
 
 ### 滴滴 弹性计算 k8s开发 [【投递】](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/e8b56d0f-abae-440a-9868-4d1fb005e914)
@@ -157,6 +142,21 @@
 - kubernetes、kubeflow、volcano
 - ray
 - GPU、RDMA、NCCL
+
+### 京东 超大规模异构算力智能调度 [【投递】](https://campus.jd.com/#/details?id=5993)
+
+【描述】
+- 算力集群：异构计算架构，探索高性能计算存储、高性能网络等前沿技术落地
+- RL for scheduling
+- LLM 训推场景
+- 故障预测、自愈
+- Kubernetes、Ray
+
+【要求】
+- 分布式系统架构：K8s、Ray、Horovod
+- HPC：CUDA/Triton/OpenCL底层优化
+- 网络协议栈：RoCEv2、GPUDirectRDMA性能调优
+- 调度算法：GangScheduling、BinPacking
 
 ## ✅ Accepted
 
