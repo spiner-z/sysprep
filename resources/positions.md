@@ -1,6 +1,6 @@
 # Positions
 
-## Interested
+## 🤔 Interested
 
 ### 商汤 大装置 AI云计算开发 [【投敌】](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/posDetail.html?postId=6887184e43ff2844337f9be3&postType=campus)
 
@@ -45,20 +45,6 @@
 - 基础设施（网络、存储、数据库）
 - 运用技术：虚拟化、容器、分布式系统、微服务架构
 
-### 腾讯 高性能计算 [【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752)
-
-【描述】
-- GPU方向：调度；混合精度计算；模型量化
-- 网络方向：分布式网络架构（如InfiniBand/RoCE/DPU）；MPI、NCCL
-- LLM：优化大模型训练框架（如PyTorch/TensorFlow/DeepSpeed/Megatron-LM）；分布式训练策略（模型并行、流水线并行、混合并行）；训练加速技术（梯度压缩、显存优化、动态计算图调度）
-
-【要求】
-- 并行计算
-- TensorRT/Triton Inference Server等推理框架
-- RDMA
-- DPDK/SPDK
-- Transformer 架构
-
 ### 快手 AI-Infra研发 [【投递】](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/9915)
 
 
@@ -98,7 +84,7 @@
 
 【要求】golang 开发
 
-## Interviewing
+## 💪 Interviewing
 
 ### 字节 混合云 云原生AI研发（社招） [【投递】](https://jobs.bytedance.com/experienced/position/7475683054569441554/detail)
 
@@ -123,6 +109,20 @@
 - Kubernetes：调度器、资源扩展机制、容器运行时、容器网络
 - 大模型训练调优：GPU和底层CUDA原理
 - Kubeflow、Volcano、Pytorch、GPU芯片架构
+
+### 腾讯 高性能计算 [【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752)
+
+【描述】
+- GPU方向：调度；混合精度计算；模型量化
+- 网络方向：分布式网络架构（如InfiniBand/RoCE/DPU）；MPI、NCCL
+- LLM：优化大模型训练框架（如PyTorch/TensorFlow/DeepSpeed/Megatron-LM）；分布式训练策略（模型并行、流水线并行、混合并行）；训练加速技术（梯度压缩、显存优化、动态计算图调度）
+
+【要求】
+- 并行计算
+- TensorRT/Triton Inference Server等推理框架
+- RDMA
+- DPDK/SPDK
+- Transformer 架构
 
 ## ❌ Rejected
 
