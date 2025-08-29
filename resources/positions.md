@@ -2,7 +2,7 @@
 
 ## 🤔 Interested
 
-### 商汤 大装置 AI云计算开发 [【投敌】](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/posDetail.html?postId=6887184e43ff2844337f9be3&postType=campus)
+### 商汤 大装置 AI云计算开发 [【投递】](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/posDetail.html?postId=6887184e43ff2844337f9be3&postType=campus)
 
 【描述】AI基础设施；训练、推理
 
