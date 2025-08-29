@@ -143,7 +143,7 @@
 - ray
 - GPU、RDMA、NCCL
 
-### 京东 超大规模异构算力智能调度 [【投递】](https://campus.jd.com/#/details?id=5993)
+### 京东 人才计划 超大规模异构算力智能调度 [【投递】](https://campus.jd.com/#/details?id=5993)
 
 【描述】
 - 算力集群：异构计算架构，探索高性能计算存储、高性能网络等前沿技术落地
