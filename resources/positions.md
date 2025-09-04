@@ -110,7 +110,7 @@
 - 大模型训练调优：GPU和底层CUDA原理
 - Kubeflow、Volcano、Pytorch、GPU芯片架构
 
-### 腾讯 高性能计算 [【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752)
+### 腾讯 高性能计算 [【投递】](https://join.qq.com/post_detail.html?postid=1150119855413066752) （已被定向到混元机器学习平台开发）
 
 【描述】
 - GPU方向：调度；混合精度计算；模型量化
